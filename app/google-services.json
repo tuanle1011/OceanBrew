@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17737027037",
+    "project_id": "oceanbrew-7e5b2",
+    "storage_bucket": "oceanbrew-7e5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17737027037:android:0af3f67dcc0f2ba3407a34",
+        "android_client_info": {
+          "package_name": "com.example.oceanbrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17737027037-fbbaq4mk8l6sets3cd3v5o7qerrh3srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEY4y_DO29rT25gDNkbKWoQH5XZeU1nhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17737027037-fbbaq4mk8l6sets3cd3v5o7qerrh3srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

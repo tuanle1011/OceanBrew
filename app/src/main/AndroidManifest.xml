@@ -10,20 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OceanBrew">
         <activity
-            android:name=".wishlist"
-            android:exported="false" />
+            android:name=".menuu"
+            android:exported="true" />
         <activity
-            android:name=".drinksdetail"
-            android:exported="false" />
+            android:name=".Register"
+            android:exported="true" />
         <activity
-            android:name=".sharing"
-            android:exported="false" />
-        <activity
-            android:name=".allrecipes"
-            android:exported="false" />
-        <activity
-            android:name=".homepage"
-            android:exported="false" />
+            android:name=".Login"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

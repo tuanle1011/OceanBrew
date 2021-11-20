@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btn_start).setOnClickListener(this);
     }
     public void onClick (View view) {
-        startActivity(new Intent(this,homepage.class));
+        startActivity(new Intent(this,Login.class));
 
         switch (view.getId()){
             case R.id.btn_start:
